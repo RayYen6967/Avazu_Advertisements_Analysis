@@ -1,5 +1,5 @@
-# CTR_prediction
-Data Mining &amp; Predictive Analytics
+# Avazu Advertisements Analysis
+Data Mining & Predictive Analytics
 
 Executive Summary
 
